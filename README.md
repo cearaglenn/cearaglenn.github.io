@@ -7,4 +7,5 @@ By going to cearaglenn.github.io, you will see my webpage hosted by Github. Ther
 * HTML5up (website template) - https://html5up.net/
 * Luxury Car Photo by Josh Berquist on <a href="https://unsplash.com/s/photos/luxury-car?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 * DJ Photo by Marcela Laskoski on <a href="https://unsplash.com/s/photos/music?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+* DJ Neon Photo by Matt Collamer</a> on <a href="https://unsplash.com/s/photos/music-emotion?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
